@@ -8,8 +8,6 @@
   <img src="https://i.postimg.cc/tTddCNPn/github-banner.png" alt="Banner" width="100%" />
 </p>
 
----
-
 ### About Me  
 My name is **Abdul Manan Maqsood**, a **Python developer** and **Computer Science** student. I transform ideas into creative, practical, and efficient solutions. I analyze problems, break them into simple, logical steps, and write clean code that delivers results.
 
@@ -17,60 +15,83 @@ My interests span across **AI**, **Data Science**, **Web Development**, and **Au
 
 I have a strong desire to grow in the tech field, collaborate with innovative minds, and contribute to impactful projects that make a difference.
 
+**Reach me at:** <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="Mail" width="21"/> **helloabdulmanan@gmail.com**
+
 ---
 
-### Skills, Technologies & Tools
+### Languages - Frameworks - Tools
 
 <p align="center">
   <!-- Languages & Core -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" height="48" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="48" height="48" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="48" height="48" title="SQLite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="46" height="46" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="46" height="46" title="CSS3"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" title="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="44" height="44" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" title="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="48" height="48" title="SQLite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" title="MySQL"/>
 </p>
 
 <p align="center">
   <!-- Frameworks & Libraries -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="48" height="48" title="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="48" height="48" title="Flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="48" height="48" title="Bootstrap"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="45" height="45" title="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="50" height="50" title="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50" title="Bootstrap"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48" title="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48" title="NumPy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="48" height="48" title="Matplotlib"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="48" height="48" title="Selenium"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="45" height="45" title="Selenium"/>
 </p>
 
 <p align="center">
   <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="48" height="48" title="PyCharm"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="46" height="46" title="PyCharm"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="48" height="48" title="Jupyter Notebook"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="46" height="46" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48" title="Git"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="45" height="45" title="GitHub"/>
 </p>
 
 ---
 
-<img alt="My stats" src="https://github-readme-stats.vercel.app/api?username=hello-abdul-manan&show_icons=true"/>
-<img alt="Most used lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hello-abdul-manan&layout=compact"/>
+### GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350" alt="Coding GIF" />
+  <img
+    src="https://github-stats-alpha.vercel.app/api?username=hello-abdul-manan&cc=2E3440&tc=eceff4&ic=eceff4&bc=eceff4"
+    alt="GitHub Stats"
+    width="510"
+  />
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hello-abdul-manan&theme=nord_dark&exclude=java,rust"
+    alt="Repos Per Language"
+    width="344"
+  />
 </p>
 
----
+<p align="center">
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hello-abdul-manan&theme=nord_dark"
+    alt="Profile Details"
+    width="860"
+  />
+</p>
 
 ### Let's Connect  
+
 <p align="center">
-  <a href="https://github.com/hello-abdul-manan"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/helloabdulmanan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:https://helloabdulmanan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" /></a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/helloabdulmanan/" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" />
+  </a>
+  
+  <!-- GitHub -->
+  <a href="https://github.com/hello-abdul-manan" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="33" />
+  </a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbdulMananMaqsood&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=hello-abdul-manan&color=0e75b6&style=flat&label=Profile+Views" alt="Profile Views" />
 </p>
