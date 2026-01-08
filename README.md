@@ -61,12 +61,12 @@ I have a strong desire to grow in the tech field, collaborate with innovative mi
   <img
     src="https://github-stats-alpha.vercel.app/api?username=hello-abdul-manan&cc=2E3440&tc=eceff4&ic=eceff4&bc=eceff4"
     alt="GitHub Stats"
-    width="510"
+    width="500" height="200"
   />
   <img
     src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hello-abdul-manan&theme=nord_dark&exclude=java,rust"
     alt="Repos Per Language"
-    width="344"
+    width="335" height="200"
   />
 </p>
 
